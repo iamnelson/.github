@@ -5,7 +5,6 @@
 demos, homelab GitOps. If it's half-finished, that's on purpose. Based in
 Portugal 🇵🇹 · [nelsoncarv.work](https://nelsoncarv.work)
 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -19,8 +18,7 @@ setups ([`poc-defectdojo-sample`](https://github.com/iamnelson/poc-defectdojo-sa
 CI/CD wiring for Coolify deployments
 ([`coolify-env-demo`](https://github.com/iamnelson/coolify-env-demo),
 [`home-gitops-coolify`](https://github.com/iamnelson/home-gitops-coolify)),
-new-language exercises ([`ruby-calculator`](https://github.com/iamnelson/ruby-calculator),
-`csharp_keepnotes`), and small product experiments like
+language exercises (`csharp_keepnotes`), and small product experiments like
 [`pereira`](https://github.com/iamnelson/pereira), an AI-assisted platform
 for condo management.
 
